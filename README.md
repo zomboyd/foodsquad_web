@@ -1,0 +1,2 @@
+# foodsquad_web
+angular
